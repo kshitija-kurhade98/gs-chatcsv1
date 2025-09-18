@@ -14,7 +14,7 @@ from pandasai import PandasAI
 load_dotenv()
 
 
-openai_api_key = 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
+#openai_api_key = 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
 
 
 def chat_with_csv(df,prompt):
