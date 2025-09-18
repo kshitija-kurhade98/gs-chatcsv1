@@ -5,7 +5,7 @@
 #st.write('Hello world!')
 
 import streamlit as st 
-from pandasai.llm.openai import OpenAI
+#from pandasai.llm.openai import OpenAI
 from dotenv import load_dotenv
 import os
 import pandas as pd
